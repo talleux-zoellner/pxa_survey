@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "typo3/cms-core": "^9.5 || ^10.4",
+    "typo3/cms-core": "^9.5 || ^10.4 || ^11.5",
     "php": ">=7.0"
   },
   "require-dev": {
